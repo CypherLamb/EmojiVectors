@@ -531,19 +531,5 @@ Cross-modal AI safety research
 
 Special recognition to the AI safety research community for ongoing efforts to identify and mitigate emerging vulnerability surfaces in large language models.
 
-### License
-This research document is provided under Creative Commons Attribution 4.0 International (CC BY 4.0).
-You are free to:
-
-Share: Copy and redistribute the material
-Adapt: Remix, transform, and build upon the material
-
-Under the following terms:
-
-Attribution: Provide appropriate credit and link to license
-No Additional Restrictions: Cannot apply legal terms that restrict others from doing anything the license permits
-
-Disclaimer: This research is provided for educational and defensive security purposes. The authors assume no liability for misuse of these techniques. Users are responsible for ensuring compliance with applicable laws and ethical guidelines.
-
 ### Document Version: 1.3
 Last Updated: October 2025
