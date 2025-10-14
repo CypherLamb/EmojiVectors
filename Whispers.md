@@ -1,14 +1,4 @@
 
-│ Input Layer:        🔓📦📤                             │
-
-│ Tokenization:       [LOCK_OPEN, BOX, OUTBOX]            │
-
-│ Embedding:          [v₁, v₂, v₃] → Dense vectors        │
-
-│ Semantic:           "Unlock container and send out"     │
-
-│ Computational:      decrypt(data).extract().transmit()  │
-```
 
 The attack surface exists in the **semantic→computational translation** where guardrails make incorrect safety assessments due to representational mismatch.
 
