@@ -1,7 +1,9 @@
+# ***Emoji-Based Semantic Injection Vectors in Large Language Models***
 
-
-The attack surface exists in the **semantic→computational translation** where guardrails make incorrect safety assessments due to representational mismatch.
-
+### Abstract:
+### This research document catalogs comprehensive attack vectors utilizing emoji semantics to bypass AI guardrails and inject malicious computational instructions into Large Language Model (LLM) systems.
+### Emojis represent a critical vulnerability surface due to their semantic density, tokenization irregularities, and cross-modal encoding properties.
+### This analysis extends the semantic prompt injection framework described in NVIDIA's research on agentic AI security, focusing specifically on pictographic encoding as a vector for bypassing content filters and guardrails.
 ---
 
 ## Vulnerability Taxonomy
